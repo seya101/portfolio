@@ -37,9 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #ddd6f3;
-   background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #faaca8, #ddd6f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #67696b;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -54,9 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-    background: #ddd6f3;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #faaca8, #ddd6f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #818486;
   transition: background 0.2s ease-in-out;
 }
 
@@ -1152,7 +1148,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #676767;
+  background: #67696b;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1165,7 +1161,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #818486;
   color: #fff;
   text-decoration: none;
 }
